@@ -1,0 +1,85 @@
+html, body {
+    width:100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+    font-size: 0.9em;
+    letter-spacing: .20em;
+    font-weight: 200;
+}
+
+header ul {
+    list-style-type: none;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding-top: 17px;
+}
+
+header ul li {
+    display: inline;
+    margin: 0 20px
+}
+
+.hero {
+    background-image: url('http://static1.squarespace.com/static/53c98b1ae4b09390905fc02c/53f14e2fe4b027cf34f3d7b5/54173319e4b071dcb92dc4cd/1410806562621/P1010336.jpg?format=1500w');
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Montserrat';  
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+    font-size: 3em;
+    display: table;
+    line-height: 1em;
+}
+
+.title {
+    height: 50%;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.content {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+    font-weight: 500;
+    line-height: 1.7em;
+    width: 60%;
+    margin: 45px auto;
+    color: #000000;
+}
+
+a {
+    color: dodgerblue;
+}
+
+.label {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+}
+
+.projects {
+    margin: 60px auto;
+    text-align: center;
+}
+
+
+
+
+
+
+
